@@ -8,5 +8,4 @@ public enum Regione {
     PIEMONTE,
     BASILICATA
 
-
 }
